@@ -26,7 +26,7 @@
   $cfg_antyspam = true;
 
   // SPRAWDZANIE PRZEGLADARKI UZYTKOWNIKA (true - wlaczony, false - wylaczony)
-  // umozliwia kożystanie z antyspamu nawet gdy uzytkownicy maja wspolne IP
+  // umozliwia korzystanie z antyspamu nawet gdy uzytkownicy maja wspolne IP
   // wlaczac tylko w razie wyraznej potrzeby
   $cfg_check_browser = false;
 
