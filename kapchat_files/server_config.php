@@ -5,7 +5,7 @@
   // USTAWIENIA BAZY MYSQL(nazwy musza znajdowac sie miedzy apostrofmi!)
   $cfg_mysql['host'] = 'localhost'; // nazwa hosta
   $cfg_mysql['user'] = 'root'; // nazwa uzytkownika bazy
-  $cfg_mysql['pass'] = '11ynlatipakCM'; // haslo
+  $cfg_mysql['pass'] = 'haslo'; // haslo
   $cfg_mysql['base'] = 'test'; // nazwa bazy
   $cfg_mysql['port'] = ''; // port (zostaw puste jesli uzywasz domyslnego portu)
 
