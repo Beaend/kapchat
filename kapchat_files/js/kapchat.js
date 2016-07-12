@@ -5,9 +5,6 @@ $(document).ready(function(){
    // załadowanie emotek do menu
    loadEmots(kapchatEmotsFolder, kapchatEmots);
 
-   // pobranie hooka do dźwięku wiadomości:
-   var sound = document.getElementById('kapchat_sound');
-
    // wyswietlenie wiadomosci
    kapchat_showMessages();
 

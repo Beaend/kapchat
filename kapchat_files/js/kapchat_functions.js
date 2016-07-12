@@ -115,6 +115,8 @@ function ago(timestamp){
 
 // pobiera komentarze z bazy i wyświetla je na ekranie
 function kapchat_showMessages(){
+  // pobranie hooka do dźwięku wiadomości:
+  var sound = document.getElementById('kapchat_sound');
 
   $('.kapchat_ago').each(function(){
     var timestamp = $(this).attr('timestamp');
