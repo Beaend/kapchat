@@ -10,6 +10,8 @@ var kapchatShowImages = true;
 var kapchatShowVideo = true;
 // LISTA SLOW DO OCENZUROWANIA (slowa rozdzielone przecinkami):
 var kapchatCurseList = 'kurw, huj, hój, jeb, pierd, fuck, kurew, gówn, guwn';
+// DODANIE DŹWIĘKU WIADOMOŚCI (true - wlaczone, false - wylaczone):
+var kapchatPlaySound = true;
 // NAZWA FOLDERU Z EMOTIKONAMI (white / black):
 var kapchatEmotsFolder = 'black';
 // tablica zawierająca nazwy plików z emotikonami (bez rozszerzen) i odpowiadajace im symbole:
