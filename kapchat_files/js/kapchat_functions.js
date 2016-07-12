@@ -131,7 +131,7 @@ function kapchat_showMessages(){
       var skeleton = $('div#kapchat_messages_skeleton').html();
 
       $.each(json, function(key, value){
-        if (kapchatPlaySound) $sound.play();
+        if (kapchatPlaySound) sound.play();
 
         id = value.message_id;
         color = value.color;

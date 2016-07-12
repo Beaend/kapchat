@@ -13,7 +13,7 @@ var kapchatCurseList = 'kurw, huj, hój, jeb, pierd, fuck, kurew, gówn, guwn';
 // DODANIE DŹWIĘKU WIADOMOŚCI (true - wlaczone, false - wylaczone):
 var kapchatPlaySound = true;
 // NAZWA FOLDERU Z EMOTIKONAMI (white / black):
-var kapchatEmotsFolder = 'black';
+var kapchatEmotsFolder = 'white';
 // tablica zawierająca nazwy plików z emotikonami (bez rozszerzen) i odpowiadajace im symbole:
 var kapchatEmots = [];
 kapchatEmots['smile'] = ':)';
